@@ -1,6 +1,5 @@
 #include <stdio.h>
 int main() {
-    printf("Git test\n");
-    printf("I hope this gets updted on the repo\n");
+    printf("The lesson is learned successfully\n");
     return 0;
 }   
